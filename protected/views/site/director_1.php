@@ -1,0 +1,12 @@
+<button type="button" class="close" data-dismiss="modal">&times;</button>
+<div class="modal-image-c">
+ 	<img src="<?php echo Yii::app()->request->baseUrl; ?>/images/director-1.jpg" class="img-responsive">
+</div>
+<div class="modal-inside-content text-center">
+    <h5>Mr. Jaison Panikulangara</h5>
+    <p>Chairman</p>
+	<p class="text-justify">Is the Chairman of the Company.He is a prominent business man and a Malayalam Litterateur. He has completed his graduation as a Bachelor of Arts and Science from Union Christian College. He started his business career as Production Director in the year 1981 in M/s Vinco Painters based in Cochin Shipyard. Vinco Painters worked for the major industries located in Eloor/Karimugal area which is the Industrial Hub of Kerala, this role helped him in acquiring widespread experience in all the domains of the production department. He kick started his Industrial career as a Blasting and Painting Consultant in Arab Ship Repair Yard, Bahrain in the year 1988 and continued in this area of specialization till the year 2000.He has worked in all the major ship yards in Bahrain,Dubai,Sharjah and Ajman during this time period. From the year 2000 he is again back to his passion of innovating and implementing new ventures in the hospitality and Tourism Sectors. One of the greatest feather in his hat as a passionate businessman was to start a Kerala Style House Boat in Nawraliya ,Sri Lanka in the year 2013 which was the first of its kind in Sri Lanka. He has an overall experience of more than 35 years as an entrepreneur in multiple domains which includes Tourism, Hospitality,Ship Blasting/Painting sectors  etc. As a person having too much of Love towards the Nature he likes to travel and write books and blogs on the same. His first book named ‘Kargil Yathra’ was published by Grand Books, Kottayam , which describes his 20 days visit to Kargil hills along with the Indian Army Personals. His second book about Sri Lanka named “Sri Lanka Ashanthiyude Thuruthile Rithubedhagal” was published by Mathrubhumi  Books,Calicut.</p>
+	<a href=""><i class="fa fa-facebook"></i></a>
+  	<a href=""><i class="fa fa-twitter"></i></a>
+  	<a href=""><i class="fa fa-google-plus"></i></a>
+</div>
