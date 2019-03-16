@@ -1,7 +1,7 @@
 <?php
 class SiteController extends Controller
 {
-    public $layout='//layouts/column2';
+    public $layout='//layouts/column2'; 
     public function actionIndex() {
         $exclusive_privileges = Category::model()->findAllByAttributes(array('parent_category'=>'0','status'=>'Y'),array('order' => 'created_at asc','limit' => 5));
         $enquiry = new Enquiry();
